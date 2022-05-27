@@ -1,0 +1,162 @@
+body{
+  background-color: #33334d;
+  text-align: center;
+}
+
+a{
+  color: white;
+}
+
+
+hr{
+  color: white;
+  border-style: dashed;
+  border-top-style: none;
+}
+h1{
+  color: #00ff99;
+}
+
+h2{
+  color: #00ff99;
+  font-size: 55px;
+  font-family: 'Merriweather', serif;
+
+}
+
+h3{
+  color: #99ffd6;
+  font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+th{
+  color: #99ffd6;
+  font-size: 20px;
+}
+td{
+  color: white;
+  font-size: 25px;
+}
+
+p{
+  color: white;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: left;
+}
+
+
+
+
+.fixed_image{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 125px;
+}
+
+.fixed_text{
+  color: #00ff99;
+  position: fixed;
+  top: 15%;
+  font-size: 15px;
+}
+
+.first_container{
+  margin-top: 10%;
+}
+
+.second_container{
+  width: 50%;
+  margin: 100px auto 10px auto;
+}
+
+.upper-cloud{
+  position: absolute;
+  right: 30%;
+  top: 5%;
+}
+
+.lower-cloud{
+  position: absolute;
+  top: 15%;
+}
+
+.heading_text{
+  color: #00ff99;
+  font-size: 586.6%;
+  font-family: 'Beau Rivage', cursive;
+  position: relative;
+  top: 60px;
+}
+
+.second_heading{
+  color: #00ff99;
+  font-size: 300%;
+  font-family: 'Square Peg', cursive;
+  font-weight: lighter;
+  position: relative;
+  margin: 100px auto 100px auto;
+}
+.other_container{
+  margin: 50px auto 100px auto;
+}
+
+.hobby{
+  margin: 150px auto 100px auto;
+  text-align:left;
+
+}
+
+.contact{
+  margin: 100px auto 25px auto;
+}
+
+.icons_first{
+  width: 25%;
+  float: right;
+
+}
+.icons_second{
+  width: 25%;
+  float: left;
+}
+
+.icons_third{
+  width: 25%;
+  float: right;
+}
+
+.icons-one{
+  width: 20%;
+
+
+}
+.icons{
+  width: 20%;
+  float: left;
+}
+
+.my_contact{
+  width: 45%;
+
+}
+
+.contact_heading{
+  font-family: 'Merriweather', serif;
+}
+
+.number{
+  color: white;
+  font-size: 35px;
+}
+
+.phone{
+  width: 40%;
+  margin: 100px auto 100px auto;
+}
+.email{
+  width: 40%;
+  margin: 200px auto 100px auto;
+}
