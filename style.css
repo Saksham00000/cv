@@ -155,7 +155,6 @@ p{
 }
 .icons{
   width: 20%;
-  float: left;
 }
 
 .contact {
@@ -187,7 +186,7 @@ p{
 }
 
 .my_contact{
-  width: 45%;
+  width: 100%;
 
 }
 
